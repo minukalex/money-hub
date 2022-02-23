@@ -1,4 +1,5 @@
 Given more time, what other changes you would have liked to make?
+
     - Modular structure, seperate component for valuation changes also for other components.
     - Design improvements.
 

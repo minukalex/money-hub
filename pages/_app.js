@@ -6,7 +6,7 @@ import "../styles/globals.css"
 
 const Body = styled.div`
   background-color: ${(props) => props.theme.colors.white.default};
-  height: 100vh;
+  height: 100%;
 `
 const NavBar = styled.div`
   background-color: ${(props) => props.theme.colors.white.default};

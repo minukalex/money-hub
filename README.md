@@ -1,3 +1,15 @@
+Given more time, what other changes you would have liked to make?
+    - Modular structure, seperate component for valuation changes also for other components.
+    - Design improvements.
+
+What UX or design improvements or alterations might you suggest? These can be to existing components or completely new ideas.
+
+    - Add header and footer
+    - align items in two cloumns in a row for better look and feel and avoid scrollbar.
+    - Edit button would look better with small width and better style.
+    - Have side bar with no contents, remove if it has no content
+    - will use better font.
+
 # Moneyhub Tech Test - Property Details
 
 This is a prototype of a new feature in Moneyhub

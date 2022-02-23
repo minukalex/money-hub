@@ -26,6 +26,19 @@ export const InfoText = styled.div`
   color: ${(props) => props.theme.colors.neutral[600]};
 `;
 
+export const InfoSuccessText = styled.div`
+  line-height: 1.6;
+  font-size: ${(props) => props.theme.typography.m.fontSize};
+  color: ${(props) => props.theme.colors.success.default};
+  padding: 4px 10px;
+  background-color:  #c2f7e1;
+  border-radius: 20px;
+  font-weight: 600;
+  display:inline-block; 
+  width: 200px;
+  text-align: center;
+`;
+
 export const AccountSection = styled.div`
   padding: ${(props) => props.theme.space.m} 0;
 
@@ -42,6 +55,18 @@ export const AccountListItem = styled.div`
     margin-bottom: ${(props) => props.theme.space.m};
   }
 `;
+
+export const AccountListTable = styled.div`
+  display: flex;
+  flex-wrap: wrap;
+`;
+
+export const AccountListItemTable = styled.div`
+  flex: 50%;     
+  margin-bottom:10px;         
+`;
+
+
 
 export const Inset = styled.div`
   padding: 0 ${(props) => props.theme.space.m};
